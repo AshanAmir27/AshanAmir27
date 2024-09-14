@@ -25,6 +25,6 @@
 <br/>
 <hr/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashanamir27&show_icons=true&locale=en" alt="ashanamir27" /></p>
-<br/>
+<br/><br/><br/>
 <hr/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashanamir27&" alt="ashanamir27" /></p>
