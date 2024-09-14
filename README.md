@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashan Amer</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
+🔭 I am actively working on full stack web development projects, specializing in React.js for frontend and Node.js/Express.js for backend development.<br>👯 I’m looking to collaborate on innovative web applications that push the boundaries of modern web technologies.<br>🤝 I’m seeking to deepen my expertise in scalable web architectures, advanced frontend frameworks, and backend API optimization.<br>🌱 I’m currently focused on improving performance, security, and responsive design in web applications.<br>💬 Ask me about frontend and backend development, RESTful APIs, responsive design, and modern JavaScript frameworks.<br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
