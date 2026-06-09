@@ -24,8 +24,8 @@ Full Stack Developer focused on building scalable and user-friendly web applicat
 ### Connect
 
 * LinkedIn: https://linkedin.com/in/ashan-amir-786045211
-* Portfolio: Your Portfolio URL
-* Email: [your@email.com](mailto:your@email.com)
+* Portfolio: https://my-portfolio-pi-five-26.vercel.app/
+* Email: [ashanamir65@gmail.com](mailto:your@email.com)
 
 ### GitHub Stats
 
