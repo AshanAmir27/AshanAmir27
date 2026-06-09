@@ -26,9 +26,3 @@ Full Stack Developer focused on building scalable and user-friendly web applicat
 * LinkedIn: https://linkedin.com/in/ashan-amir-786045211
 * Portfolio: https://my-portfolio-pi-five-26.vercel.app/
 * Email: [ashanamir65@gmail.com](mailto:your@email.com)
-
-### GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=AshanAmir27\&show_icons=true\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshanAmir27\&layout=compact\&hide_border=true)
